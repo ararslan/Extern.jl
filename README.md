@@ -12,6 +12,7 @@ Note that the macro does *not* automatically load the given package.
 
 So for example, say you want to make a function that includes a method for a type provided
 by another package but you don't want a dependency on that package.
+Perhaps you're developing your own package and only want that method for convenience.
 You can define the function like so:
 
 ```julia
