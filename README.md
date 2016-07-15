@@ -1,5 +1,7 @@
 # Extern.jl
 
+[![0.4](http://pkg.julialang.org/badges/Extern_0.4.svg)](http://pkg.julialang.org/?pkg=Extern)
+[![0.5](http://pkg.julialang.org/badges/Extern_0.5.svg)](http://pkg.julialang.org/?pkg=Extern)
 [![Travis](https://travis-ci.org/ararslan/Extern.jl.svg?branch=master)](https://travis-ci.org/ararslan/Extern.jl)
 [![AppVeyor](https://ci.appveyor.com/api/projects/status/c8ul683vudfnkwak/branch/master?svg=true)](https://ci.appveyor.com/project/ararslan/extern-jl/branch/master)
 [![Coveralls](https://coveralls.io/repos/github/ararslan/Extern.jl/badge.svg?branch=master)](https://coveralls.io/github/ararslan/Extern.jl?branch=master)
