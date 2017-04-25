@@ -1,3 +1,12 @@
+# NOTE: This package is deprecated
+
+This package relies on a bad mechanism for implementing conditional dependencies.
+As such it has been deprecated and will not be installable at all on Julia 0.6.
+The author recommends you hold off on trying to do conditional dependencies until
+it has first-class support in the language.
+
+---
+
 # Extern.jl
 
 [![0.4](http://pkg.julialang.org/badges/Extern_0.4.svg)](http://pkg.julialang.org/?pkg=Extern)
